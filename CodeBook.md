@@ -5,7 +5,6 @@ This is a code book that describes the variables, data, and any transformations 
 
 Raw data collection
 -------------------
-
 ### Collection
 
 Raw data are obtained from UCI Machine Learning repository: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
